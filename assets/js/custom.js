@@ -56,7 +56,7 @@
             WRITE YOUR SCRIPTS HERE
             ======================================*/
                 $('.dial')
-                    .val(2)
+                    .val(466)
                     .trigger('change');
 
         },
