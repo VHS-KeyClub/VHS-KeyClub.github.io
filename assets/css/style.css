@@ -7,7 +7,7 @@
 
     100% Free To use For Personal And Commercial Use.
     IN EXCHANGE JUST GIVE US CREDIT US AND TELL YOUR FRIENDS ABOUT US
-   
+
     ========================================================  */
 /*=====================================
    GENERAL STYLE SECTION
@@ -17,7 +17,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     line-height: 30px;
-    
+
 }
 
 .pad-low {
@@ -117,7 +117,7 @@ h2:after {
     color: #fff;
 }
 /*=====================================
-   HEADER SECTION BAR STYLE 
+   HEADER SECTION BAR STYLE
     ===================================*/
 .header-sec-bar {
     background-color: #FEC911;
@@ -134,7 +134,7 @@ h2:after {
     }
 
 /*=====================================
- MAIN  HEADER SECTION  STYLE 
+ MAIN  HEADER SECTION  STYLE
     ===================================*/
 #main-head {
     color: #fff;
@@ -142,7 +142,7 @@ h2:after {
     line-height: 40px;
     font-size: 14px;
     text-align: center;
-    background-color: #1439DA;
+    background-color: #fff;
 }
 
     #main-head input:focus {
@@ -215,7 +215,7 @@ h2:after {
 }
 
 /*=====================================
- BUTTON CODE STYLE 
+ BUTTON CODE STYLE
     ===================================*/
 .btn-style-1 {
     color: #fff;
@@ -292,7 +292,7 @@ h2:after {
         transition: all 0.5s ease-in-out;
     }
 /*=====================================
- ABOUT SECTION  STYLE 
+ ABOUT SECTION  STYLE
     ===================================*/
 #about {
     padding-bottom: 100px;
@@ -321,7 +321,7 @@ h2:after {
     }
 
 /*=====================================
- BUDGET SECTION  STYLE 
+ BUDGET SECTION  STYLE
     ===================================*/
 #budget {
     background-color: #3157F8;
@@ -330,7 +330,7 @@ h2:after {
 }
 
 /*=====================================
- VEDIO SECTION  STYLE 
+ VEDIO SECTION  STYLE
     ===================================*/
 #vedio-sec {
     padding-bottom: 80px;
@@ -344,7 +344,7 @@ h2:after {
     margin-top: 20px;
 }
 /*=====================================
-  REVIEW STYLES 
+  REVIEW STYLES
     ===================================*/
 .reviews-section {
     background: #3157F8;
@@ -371,7 +371,7 @@ h2:after {
 }
 
 /*=====================================
-  EVENTS STYLES 
+  EVENTS STYLES
     ===================================*/
 #recent-events {
     padding-bottom: 20px;
@@ -451,7 +451,7 @@ h2:after {
 }
 
 /*=====================================
-   IMPACT STYLE 
+   IMPACT STYLE
     ===================================*/
 #impact {
     padding-bottom: 20px;
@@ -470,7 +470,7 @@ h2:after {
 
 
 /*=====================================
-   CONTACT STYLE 
+   CONTACT STYLE
     ===================================*/
 #contact {
     padding-bottom: 20px;
@@ -479,7 +479,7 @@ h2:after {
 }
 
 /*=====================================
-  FOOTER STYLES 
+  FOOTER STYLES
     ===================================*/
 #footer-sec {
     background-color: #1900C2;
@@ -524,7 +524,7 @@ h2:after {
     padding: 10px;
 }
 /*=====================================
-  SCROLL UP STYLES 
+  SCROLL UP STYLES
     ===================================*/
 
 a.scrollup {
@@ -543,7 +543,7 @@ z-index: 9999;
 opacity: 0.5;
 }
 /*=====================================
-  PRELOADER STYLES 
+  PRELOADER STYLES
     ===================================*/
 #pre-div {
     background-color: #fff;
