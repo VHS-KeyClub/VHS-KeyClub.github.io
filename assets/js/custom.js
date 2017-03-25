@@ -6,7 +6,7 @@
 
     100% Free To use For Personal And Commercial Use.
     IN EXCHANGE JUST GIVE US CREDIT US AND TELL YOUR FRIENDS ABOUT US
-   
+
     ========================================================  */
 
 (function ($) {
@@ -25,8 +25,8 @@
             $('#carousel-slider').carousel({
                 interval: 3500 //TIME IN MILLI SECONDS
             })
-           
-            //  SCROLL SCRIPT FUNCTION FOR NAVBAR 
+
+            //  SCROLL SCRIPT FUNCTION FOR NAVBAR
             $(function () {
                 $('.move-me a').bind('click', function (event) { //just pass move-me in design and start scrolling
                     var $anchor = $(this);
@@ -43,12 +43,12 @@
             $('#reviews').carousel({
                 interval: 4000 //TIME IN MILLI SECONDS
             })
-            // PRETTYPHOTO FUNCTION 
+            // PRETTYPHOTO FUNCTION
 
             $("a.preview").prettyPhoto({
                 social_tools: false
             });
-            // IMPACT KNOB CIRCLE 
+            // IMPACT KNOB CIRCLE
             $(function () {
                 $(".dial").knob();
             });
@@ -56,7 +56,7 @@
             WRITE YOUR SCRIPTS HERE
             ======================================*/
                 $('.dial')
-                    .val(466)
+                    .val(509)
                     .trigger('change');
 
         },
